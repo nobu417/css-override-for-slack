@@ -2,7 +2,7 @@ Slack の上書き用CSS。
 サイドバーを小さくして、小さいウィンドウでも開きやすく。常駐向けに。
 ユーザーの発言は吹き出しにした。
 
-'''css
+```css
 body {
     min-width: 100px !important;
 	font-family: 'Helvetica Neue' !imporatant;
@@ -65,4 +65,4 @@ body {
 #footer {
     left: 160px !important;
 }
-'''
+```
